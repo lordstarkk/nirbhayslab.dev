@@ -22,7 +22,7 @@
   --text-soft: #6b7280;
 
   /* Border colors */
-  --border-subtle-dark: rgba(255, 255, 255, 0.1);
+  --border-subtle-dark: rgba(255, 255, 255, 0.08);
   --border-subtle-light: rgba(0, 0, 0, 0.05);
 
   /* Special effects and animations */
