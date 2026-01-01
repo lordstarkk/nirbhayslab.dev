@@ -93,6 +93,7 @@ body {
   align-items: center;
   position: fixed;
   width: 100%;
+  height: 60px;
   padding: 1rem min(8vw, 5rem);
   backdrop-filter: blur(5px);
   background-color: var(--bg-elevated-dark);
@@ -336,8 +337,7 @@ body {
 
 /* Main section title styling */
 .section-title {
-  color: var(--text-light);
-  font-size: clamp(2rem, 4vw, 3rem);
+  font-size: clamp(1.5rem, 4vw, 2.2rem);
   font-weight: 700;
   margin: 0;
 }
@@ -345,7 +345,7 @@ body {
 /* Secondary heading - smaller than main title */
 .section-sub-heading {
   color: var(--text-soft);
-  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  font-size: clamp(0.8rem, 2.5vw, 1rem);
 }
 
 /* ============================================================================
@@ -460,7 +460,6 @@ body {
   background-color: var(--bg-elevated-dark);
   border-radius: 12px;
   padding: 1rem;
-  box-shadow: var(--shadow-glow);
   border: 1px solid var(--border-subtle-dark);
   padding: 40px;
   align-self: center;
