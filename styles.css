@@ -68,7 +68,7 @@ html {
 body {
   margin: 0;
   font-family: var(--font-sans);
-  background: radial-gradient(circle at top, #181328 0%, #000000 55%);
+  background-color: #000000;
   color: var(--text-light);
   line-height: 1.5;
 }
