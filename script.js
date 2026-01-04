@@ -103,14 +103,7 @@ const TOP_PROJECTS = [
     stack: ["Python", "AI/Automation"],
     link: "https://github.com/nirbhayslab/JARIVIS-1.1-PYTHON-AI-ASSISTANT",
   },
-  {
-    title: "strangexstarkWeb",
-    status: "Paused",
-    description:
-      "Your personal website built with HTML, CSS, and JavaScript to showcase your projects and journey.",
-    stack: ["HTML", "CSS", "JavaScript"],
-    link: "https://github.com/nirbhayslab/strangexstarkWeb",
-  },
+
 ];
 
 // Function to render top projects
